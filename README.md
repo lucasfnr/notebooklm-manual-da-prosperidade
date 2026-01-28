@@ -46,7 +46,7 @@ https://notebooklm.google.com/notebook/8a18770a-5276-4b5c-a333-d513dddcbc3f
 > - Vídeo: Demonstrações visuais de conceitos de saúde financeira.
 > - Avaliações e Testes: Questionários de múltipla escolha gerados automaticamente para fixação de conteúdo.
 
-> Para uma experiência detalhada com capturas de tela, áudios e vídeos, acesse a documentação completa em: [/demonstracao.]](./demonstracao).
+> Para uma experiência detalhada com capturas de tela, áudios e vídeos, acesse a documentação completa em: [/demonstracao.](demonstracao/)
 
  ## Observação
 
