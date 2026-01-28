@@ -96,8 +96,9 @@ O "Manual da Evolução" e as fontes complementares estabelecem que a educação
 > "Elabore um teste com perguntas de múltipla escolha sobre fundamentos de saúde financeira e controle de dívidas. As questões devem avaliar tanto compreensão teórica quanto situações práticas individuais."
 
 **Resultado:**<br>
+![Demonstração do sistema](./midia/Quiz.jpg)
 
  ## Observação
 
 > Os exemplos apresentados têm finalidade exclusivamente educacional e demonstrativa.
-![Demonstração do sistema](./midia/Quiz.jpg)
+
