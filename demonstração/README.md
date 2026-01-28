@@ -78,7 +78,7 @@ O "Manual da Evolução" e as fontes complementares estabelecem que a educação
 > "Gere um resumo curto, de no máximo 3 minutos em português brasileiro, sobre quais estratégias ajudam a aumentar a renda e poupar mais, mantenha a linguagem clara, objetiva."
 
 **Resultado:**<br>
-[Clique aqui para assistir o vídeo da demonstração](./arquivo.pdf)
+[Clique aqui para assistir o vídeo da demonstração](./midia/audio.m4a)
 
  ## Exemplo 4 — Resumo em vídeo
 
@@ -87,7 +87,7 @@ O "Manual da Evolução" e as fontes complementares estabelecem que a educação
 > "Faça um vídeo curto, no máximo 3 minutos, em português brasileiro para discutir 'como controlar impulsos financeiros e sobrar dinheiro no fim de mês'."
 
 **Resultado:**<br>
-[Clique aqui para assistir o vídeo da demonstração](./arquivo.pdf)
+[Clique aqui para assistir o vídeo da demonstração](./midia/video.mp4)
 
  ## Exemplo 5 — Teste
 
@@ -100,4 +100,4 @@ O "Manual da Evolução" e as fontes complementares estabelecem que a educação
  ## Observação
 
 > Os exemplos apresentados têm finalidade exclusivamente educacional e demonstrativa.
-![Demonstração do sistema](./img/demo.png)
+![Demonstração do sistema](./midia/Quiz.jpg)
